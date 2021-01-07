@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Template for blank react website
 
 This project has been created using **webpack scaffold**, you can now run
 
